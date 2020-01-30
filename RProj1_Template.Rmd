@@ -2,7 +2,14 @@
 title: "R Project 1 - Hello R"
 author: "Aziz Surani"
 date: "1/23/2020"
-output: html_document
+output:
+  html_document: 
+    fig_height: 7
+    fig_width: 11
+    highlight: monochrome
+    theme: lumen
+  pdf_document: default
+  word_document: default
 ---
 
 ### Load packages
