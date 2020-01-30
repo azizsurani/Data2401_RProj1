@@ -12,11 +12,11 @@ library(tidyverse)
 library(datasauRus)
 ```
 
-
+? datasaurus_dozen
 ### Exercise 1
 
-(Type your answer to Exercise 1 here. This exercise does not require any R code. **Remove notes like this in your final product**)
-the dataset has 3 columns 
+the dataset has 3 columns. A data frame with 1846 rows and 3 variables namely dataset, X: x-values, Y: y-values. 
+
 ### Exercise 2
 
 (The answers for this Exercise are given for you below. But you should clean up some of the narrative so that it only includes what you want to turn in.)
